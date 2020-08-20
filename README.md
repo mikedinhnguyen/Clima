@@ -27,5 +27,5 @@ let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=\(K.app_
 * Learned to use Grand Central Dispatch to fetch the main thread
 * Learned to use Core Location to get the current location from the phone GPS
 
-![light mode](https://github.com/mikedinhnguyen/Clima/blob/master/Documentation/light_mode.png)
-![dark mode](https://github.com/mikedinhnguyen/Clima/blob/master/Documentation/dark_mode.png)
+<img src="https://github.com/mikedinhnguyen/Clima/blob/master/Documentation/light_mode.png" alt="light_mode" height="700">  
+<img src="https://github.com/mikedinhnguyen/Clima/blob/master/Documentation/dark_mode.png" alt="dark_mode" height="700">
